@@ -1,0 +1,9 @@
+# Site settings
+title: glovesmore.github.io
+email: glovesmore@gmail.com
+description: Jekyll / Github blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://Glovesmore.github.io" # the base hostname & protocol for your site
+twitter_username: glovesmore
+github_username:  Glovesmore
+
