@@ -63,7 +63,7 @@ date:   2015-07-05 13:23:50
 
 <p>Continuer d’aller de l’avant. Explorer. Réapprendre à compter, à mesurer le temps. Sur des quais de gare et dans des coffee shops. <a href="https://instagram.com/p/0x4tEVl-La/">Birmingham</a> et son terrain de jeu. Niveaux, passerelles et murs de brique. Ressentir que je souhaite faire partie d’une communauté, en créer une. Oui, de mes mains. Une pochette estampillée Kodak, des négatifs à mon retour. La 24A sera la plus inattendue, la plus réussie. Londres, la cathédrâle Saint-Paul, de nuit. Avec un nom qui n’en finit pas nourrir ma curiosité, de se répéter sur des petits carreaux de papier, dans mes écoutes nocturnes ou candides enregistrements. Celui de Walter Benjamin. Des livres. J’en prêterai, chérirai, offrirai. Avec mes notes cette fois-ci. Des lettres. J'en publierai aussi. Qu’elles vous donnent l’envie de marcher, de vous perdre. d’un point A à un point B, du noir au blanc.</p>
 
-<p>Car “les gris sont importants”. Les “petites différences”.</p>
+<h3>Car “les gris sont importants”. Les “petites différences”.</h3>
 
 - Références
 <ol>
