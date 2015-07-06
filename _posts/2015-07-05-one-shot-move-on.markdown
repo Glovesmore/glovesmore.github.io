@@ -65,8 +65,8 @@ date:   2015-07-05 13:23:50
 
 <p>Car “les gris sont importants”. Les “petites différences”.</p>
 
-##Références
+- Références
 <ol>
-<li>Raymond Depardon,Errance - Points (2003)</li>
+<li>Raymond Depardon, Errance - Points (2003)</li>
 <li>Vivian Maier, Self-Portraits - Powerhouse Books (2013)</li><li>Rebecca Solnit, Wanderlust - Verso Books (2006)</li>
 <li>“Voir est un tout” - Entretiens et conversations (1951-1998) - Centre Pompidou (2014)</li></ol>
