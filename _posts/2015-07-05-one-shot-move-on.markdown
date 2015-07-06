@@ -3,7 +3,7 @@ layout: post
 title:  "One shot - Move on"
 date:   2015-07-05 13:23:50
 ---
-<p>Une expression extraite d’un <a href="http://www.bbc.co.uk/programmes/b0366jd5">documentaire</a> sur Vivian Maier. Toutes ces étapes. Tant de ruptures - à la lecture d’un seul livre. L’un des seuls que j’aurais si souvent glisser dans mon sac. Dans d’autres sacs de voyage, mains. Les tiennes. Comment vous raconter tous ces mois, ces mots et leur résonance, l’errance au travers d’images, de cartes et de gares. De la manière suivante. Mon regard, et mes pas. Saccadés, somme toute insatiables. </p>
+<p>Une expression extraite d’un <a href="http://www.bbc.co.uk/programmes/b0366jd5">documentaire</a> sur Vivian Maier. Toutes ces étapes. Tant de ruptures - à la lecture d’un seul livre. L’un des seuls que j’aurais si souvent glisser dans mon sac. Dans d’autres sacs de voyage, mains. Les tiennes. Comment vous raconter tous ces mois, ces mots et leur résonance, l’errance au travers d’images, de cartes et de gares? De la manière suivante. Mon regard, et mes pas. Saccadés, somme toute insatiables. </p>
 
 <h1>Décembre 2013 - Bordeaux</h1>
 
