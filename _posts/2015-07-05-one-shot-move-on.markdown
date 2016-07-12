@@ -5,6 +5,8 @@ date:   2015-07-05 13:23:50
 ---
 <p>Une expression extraite d’un <a href="http://www.bbc.co.uk/programmes/b0366jd5">documentaire</a> sur Vivian Maier. Toutes ces étapes. Tant de ruptures - à la lecture d’un seul livre. L’un des seuls que j’aurais si souvent glisser dans mon sac. Dans d’autres sacs de voyage, mains. Les tiennes. Comment vous raconter tous ces mois, ces mots et leur résonance, l’errance au travers d’images, de cartes et de gares? De la manière suivante. Mon regard, et mes pas. Saccadés, somme toute insatiables. </p>
 
+![My great bass guitar](/assets/bassguitar.jpg)
+
 <h1>Décembre 2013 - Bordeaux</h1>
 
 <p>Un livre, un banc en bois. Les marches du Musée d’Aquitaine. Des souvenirs d’un autre hiver, du passage à une nouvelle année. Ce temps où nous apprenions peu à peu à faire connaissance. <b>Errance, de Raymond Depardon</b>. De la photographie donc. De toi à moi. Un présent. Tes mots pour une invitation au voyage, à la lecture. Je l’aurai lu à plusieurs reprises, d’une seule traite, par séquence. Au réveil, avant de m’endormir. Au départ, mes yeux ne pouvaient que se poser sur le texte. Tes annotations. Ressemblances. Tous ces mots que l’on place en regard d’une image.</p>
