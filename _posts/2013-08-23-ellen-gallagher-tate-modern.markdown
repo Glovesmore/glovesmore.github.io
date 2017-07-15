@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ellen Gallagher - Tate Moder"
+title:  "Ellen Gallagher - Tate Modern"
 date:   2013-08-23 13:23:50
 ---
 
@@ -10,7 +10,7 @@ date:   2013-08-23 13:23:50
 
 <p>AxME - Ask me – Acme Corporation. Le nom de l’exposition et ses dérivés. Avant de traverser le Millenium Bridge, après un café dont les Anglais ont définitivement le secret. Des publicités de magazines, des extraits de films SF et de la musique jazz. « What is crucial to my making of a language and a cosmology of signs is the type of repetition tha is central to jazz… » J’ai retracé ces yeux, ces bouches pour ne pas oublier le détail, les motifs jalonnant ses oeuvres sur ces vingt dernières années. « …You start off with a limited class of signs and like jazz, you revisit and repeat with slight changes and build structure. It’s a shifting loop that with each rotation doesn’t line up precisely ».</p>
 
-<p>L’exposition dévoile la richesse et la cohérence du travail d’Ellen Gallagher, sans la moindre progression chronologique classique. Son approche est souvent associée à celle d’Agnès Martin et Gertrude Stein. Elle touche et couche sur le papier de nombreuses techniques et matériaux. Le sens des mots en toile de fond, le papier calligraphie à rajouter sur ma liste de fournitures.  Les lignes bleues sont visibles au travers d’un cliché de Man Ray. Matisse a été remplacé par Freud. Et on découvre une représentation des temples d’Abou Simbel, dont l’original ornait la bibliothèque du père fondateur de la psychanalyse. Abu Simbel (2005) invite également l’imaginaire futuriste du musicien Sun Ra au beau milieu d’une famille roayle de l’ancienne Egypte. Après ses études, Ellen Gallagher est partie s’installer à New-York. 42nd Street. Room 2. Elle tombe sur des vieux magazines, montrant tout ou partie l’esthétique afro-urbaine des années 40-70 aux Etats-Unis.  Ebony, Our World, Sepia. Elle y va de son commentaire au travers des « Yellow Paintings ». Perruques, crèmes de jour et bulles de savon. Elle découpe les yeux, tranche de la plasticine et se joue des typographies.</p>
+<p>L’exposition dévoile la richesse et la cohérence du travail d’Ellen Gallagher, sans la moindre progression chronologique classique. Son approche est souvent associée à celle d’Agnès Martin et Gertrude Stein. Elle touche et couche sur le papier de nombreuses techniques et matériaux. Le sens des mots en toile de fond, le papier calligraphie à rajouter sur ma liste de fournitures.  Les lignes bleues sont visibles au travers d’un cliché de Man Ray. Matisse a été remplacé par Freud. Et on découvre une représentation des temples d’Abou Simbel, dont l’original ornait la bibliothèque du père fondateur de la psychanalyse. Abu Simbel (2005) invite également l’imaginaire futuriste du musicien Sun Ra au beau milieu d’une famille royale de l’ancienne Egypte. Après ses études, Ellen Gallagher est partie s’installer à New-York. 42nd Street. Room 2. Elle tombe sur des vieux magazines, montrant tout ou partie l’esthétique afro-urbaine des années 40-70 aux Etats-Unis. Ebony, Our World, Sepia. Elle y va de son commentaire au travers des « Yellow Paintings ». Perruques, crèmes de jour et bulles de savon. Elle découpe les yeux, tranche de la plasticine et se joue des typographies.</p>
 
 <h2>« Artists are self-generating »</h2>
 
@@ -24,7 +24,6 @@ date:   2013-08-23 13:23:50
 
 <p>Une vue sur la Tamise,  une carte postale piochée, celle d’Abu Simbel. Sun Ra pensait être né sur Saturne. Son vaisseau, fait ici de plumes bleues,  a peut-être atterri à Oakland. Selon lui, la musique transcende le peuple noir. George Clinton est de la partie. Et pourquoi pas Lee Scratch Perry ? De la Renaissance d’Harlem à l’afro-futurisme.  La reine Néfertiti a été remplacée par une infirmière, ayant participé à cette fameuse étude sur la syphilis. Ne me reste plus qu’à regarder en streaming le film Space Is The Place (1974) ou encore les illustrations de Pedro Bell. Autant d’influences pour Ellen Gallagher. Je repense aussi aux peintures de William Edouard Scott, l’un des contributeurs de l’exposition : Alternative Guide To the Universe.</p> 
 
-<p>Notre balade dominicale s’arrêtera à Little Venice. Nous passerons devant l’hôpital St-Mary, là où Albert Fleming a découvert ce fameux antibiotique au début du siècle. Nous pourrons nous empêcher de discuter d’autres expositions dans le bus nous ramenant à King’s Cross.
-Enfin de retour dans les galeries européennes et dans mes collages.</p>
+<p>Notre balade dominicale s’arrêtera à Little Venice. Nous passerons devant l’hôpital St-Mary, là où Albert Fleming a découvert ce fameux antibiotique au début du siècle. Nous pourrons nous empêcher de discuter d’autres expositions dans le bus nous ramenant à King’s Cross. Enfin de retour dans les galeries européennes et dans mes collages.</p>
 
 
