@@ -1,11 +1,11 @@
 # Site settings
+title: Béatrice Lajous
 description: > # this means to ignore newlines until "baseurl:"
-   Writing - Walking
+   Listening - Reading - Writing 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "glovesmore.github.io" # the base hostname & protocol for your site
 twitter_username: glovesmore
-github_username: glovesmore
 
 # Build settings
 markdown: kramdown
