@@ -1,5 +1,5 @@
 # Site settings
-title: Play by email
+title: Béatrice Lajous
 email: glovesmore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -8,7 +8,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "glovesmore.github.io" # the base hostname & protocol for your site
 twitter_username: glovesmore
-github_username:  glovesmore
+github_username: glovesmore
+tumblr_username: capt-lovelace
 
 # Build settings
 markdown: kramdown
