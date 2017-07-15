@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Béatrice, an email strategist, [musician](https://www.facebook.com/captlovelace/) and artist based in Brighton, East Sussex (England). I'm currently working on [Space for Imagination](https://space-for-imagination.tumblr.com/), a walking workshop and [Flâneurs](https://www.mixcloud.com/flaneurs), a monthly radio show on Resonance Extra. I volunteer at Fabrica, a local contemporary art gallery. I've also helped promote community and  art initiatives, such as [Diep~Haven](http://www.diephaven.org/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Goodies: I do wear [running shoes](http://theoatmeal.com/comics/running_shoes), speak Norwegian and study user research. 
