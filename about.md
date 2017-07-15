@@ -11,7 +11,7 @@ I've also helped promote community and  art initiatives, such as [Diep~Haven](ht
 
 
 
-Goodies: I do wear [running shoes](http://theoatmeal.com/comics/running_shoes), speak Norwegian and study user research. 
+Goodies: I do wear [running shoes](http://theoatmeal.com/comics/running_shoes), speak Norwegian and study user research.\\
 Guilty pleasures: Coffee brewing, biographies and old maps. 
 
 Let's start a conversation [about...](mailto:b.lajous@gmail.com)
